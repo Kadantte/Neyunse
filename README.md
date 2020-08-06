@@ -1,8 +1,8 @@
 ### Neyunse  👋
 
+Hi, I'm Neyunse, I'm a developer of visual novels and I also program in different languages (list below), I love anime and manga, I usually work on projects related to my tastes.
 
-
-### Connect with me:
+### Connect with me in:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
