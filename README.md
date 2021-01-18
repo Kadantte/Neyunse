@@ -1,4 +1,5 @@
 ### Neyunse  👋
+![:name](https://count.getloli.com/get/@Neyunse)
 
 Hi, I'm Neyunse, I'm a developer of visual novels and I also program in different languages (list below), I love anime and manga, I usually work on projects related to my tastes.
 
