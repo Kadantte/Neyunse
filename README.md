@@ -3,7 +3,7 @@
 
 Hi, I'm Neyunse, I'm a developer of visual novels and I also program in different languages (list below), I love anime and manga, I usually work on projects related to my tastes.
 
-### Connect with me in:
+### Search me in:
 
 [<img align="left" alt="Neyunse | Twitter" width="22px" src="https://img.icons8.com/color/452/twitter--v1.png" />][twitter]
 
